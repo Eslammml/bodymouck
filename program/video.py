@@ -66,8 +66,8 @@ async def vplay(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹!", url=f"t.me/J_X_S4"),
-              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘!", url=f"t.me/J_X_S3"),
+              [InlineKeyboardButton("⌯ ˹ꔷ𝘽𝙊𝘿𝙔 🧸💕_MUSIC˼ 🍟🍹!", url=f"t.me/x_bo_dy_alkbir"),
+              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘!", url=f"t.me/boodywe"),
                 ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
@@ -304,8 +304,8 @@ async def vstream(c: Client, m: Message):
                 InlineKeyboardButton(text="●↯التـحـكــم↯●", callback_data="cbmenu"),
                 InlineKeyboardButton(text="🗑اغــلاق●", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹!", url=f"t.me/J_X_S4"),
-              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘", url=f"t.me/J_X_S3"),
+              [InlineKeyboardButton("⌯ ˹ꔷ𝘽𝙊𝘿𝙔 🧸💕_MUSIC˼ 🍟🍹!", url=f"t.me/x_bo_dy_alkbir"),
+              InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘", url=f"t.me/boodywe"),
               ],
               [InlineKeyboardButton("🎧اضافه البوت اللي مجموعتك🎧", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),               
             ]

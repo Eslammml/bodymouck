@@ -60,7 +60,7 @@ async def start_(client: Client, message: Message):
 😎| ** اتبع مايلي لمعرفه كيفيه الاستخدام **
 ❓| ** اضغط علي ذر طريقه الاستخدام **
 🌐 ** الحساب المساعد  @{ASSISTANT_NAME} **
-◍صـاحـب السـورس◍ **[⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍿!](https://t.me/J_X_S4) **
+◍صـاحـب السـورس◍ **[⌯ ˹ꔷ𝘽𝙊𝘿𝙔 🧸💕_MUSIC˼ 🍿!](https://t.me/x_bo_dy_alkbir) **
 ━━━━━━━━🍁━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -82,12 +82,12 @@ async def start_(client: Client, message: Message):
                         "<<جــروب الــدعـم>>", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝗦𝗢𝗨𝗥𝗖𝗘⌯🍟🍹", url=f"https://t.me/J_X_S9"
+                        "𝗦𝗢𝗨𝗥𝗖𝗘⌯🍟🍹", url=f"https://t.me/boodywe"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹", url="https://t.me/J_X_S4"
+                        "⌯ ˹ꔷ𝘽𝙊𝘿𝙔 🧸💕_MUSIC˼ 🍟🍹", url="https://t.me/x_bo_dy_alkbir"
                     )
                 ],
             ]
@@ -108,8 +108,8 @@ async def alive(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⌯ ˹᧒ ᥲ️ ᥊ ᥉ ᥆ ꪀ. B ᥲ️ SᏂ A˼ 🍟🍹",
-                        url=f"https://t.me/J_X_S4",
+                        "⌯ ˹ꔷ𝘽𝙊𝘿𝙔 🧸💕_MUSIC˼ 🍟🍹",
+                        url=f"https://t.me/x_bo_dy_alkbir",
                     )
                 ],
                 [
@@ -131,7 +131,7 @@ async def alive(client: Client, message: Message):
     alive = f"**مرحبآ  {message.from_user.mention()}, انا {BOT_NAME}**\n\n✨ البوت يعمل بشكل طبيعي\n👨🏼‍💻المبرمج : [{ALIVE_NAME}](https://t.me/{OWNER_NAME})\n✨ اصدار Bot : `v{__version__}`\n🍀 اصدار Pyrogram : `{pyrover}`\n✨ اصدار Python: `{__python_version__}`\n🍀 اصدار PyTgCalls : `{pytover.__version__}`\n✨ وقت التشغيل: `{uptime}`\n\n**شكرًا لإضافتي هنا ، لتشغيل الفيديو والموسيقى على دردشة الفيديو الخاصة بمجموعتك ** ❤"
 
     await message.reply_photo(
-        photo=f"{https://telegra.ph/file/548483f508a91b65a67d9.jpg}",
+        photo=f"{https://telegra.ph/file/5f3090a61ad28947d3913.jpg}",
         caption=alive,
         reply_markup=keyboard,
     )
